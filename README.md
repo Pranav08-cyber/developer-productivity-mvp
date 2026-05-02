@@ -184,6 +184,7 @@ All logic, metric definitions, and implementation decisions were reviewed and un
 ## 🖥️ Dashboard Overview
 
 > Paste screenshot here
+<img width="1920" height="1080" alt="Screenshot 2026-05-02 174955" src="https://github.com/user-attachments/assets/e1d86d67-3a58-4468-be8d-c03abf3a0cab" />
 
 ```md
 ![Dashboard Screenshot](./screenshots/dashboard.png)
@@ -193,10 +194,11 @@ All logic, metric definitions, and implementation decisions were reviewed and un
 
 ## 📊 Metrics & Trends
 
-> Paste screenshot here
+<img width="1018" height="580" alt="image" src="https://github.com/user-attachments/assets/97ffad7f-5456-4f52-a357-d13966e88bcc" />
+
 
 ```md
-![Metrics Screenshot](./screenshots/metrics.png)
+
 ```
 
 ---
@@ -206,7 +208,8 @@ All logic, metric definitions, and implementation decisions were reviewed and un
 > Paste screenshot here
 
 ```md
-![Insights Screenshot](./screenshots/insights.png)
+<img width="1104" height="666" alt="image" src="https://github.com/user-attachments/assets/a526cee2-260d-4826-ac0f-80484d24f9c7" />
+
 ```
 
 ---
