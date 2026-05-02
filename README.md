@@ -205,10 +205,12 @@ All logic, metric definitions, and implementation decisions were reviewed and un
 
 ## 🧠 AI Insights Panel
 
-> Paste screenshot here
+<img width="1104" height="666" alt="image" src="https://github.com/user-attachments/assets/7e0d2080-ca48-4489-b854-b62ab3d3988e" />
+
 
 ```md
-<img width="1104" height="666" alt="image" src="https://github.com/user-attachments/assets/a526cee2-260d-4826-ac0f-80484d24f9c7" />
+
+
 
 ```
 
